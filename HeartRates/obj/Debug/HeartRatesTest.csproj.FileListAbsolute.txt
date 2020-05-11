@@ -1,0 +1,7 @@
+C:\Users\stara\Desktop\C# Projects\HeartRates\bin\Debug\AccountTest.exe.config
+C:\Users\stara\Desktop\C# Projects\HeartRates\bin\Debug\AccountTest.exe
+C:\Users\stara\Desktop\C# Projects\HeartRates\bin\Debug\AccountTest.pdb
+C:\Users\stara\Desktop\C# Projects\HeartRates\obj\Debug\HeartRatesTest.csprojAssemblyReference.cache
+C:\Users\stara\Desktop\C# Projects\HeartRates\obj\Debug\HeartRatesTest.csproj.CoreCompileInputs.cache
+C:\Users\stara\Desktop\C# Projects\HeartRates\obj\Debug\AccountTest.exe
+C:\Users\stara\Desktop\C# Projects\HeartRates\obj\Debug\AccountTest.pdb

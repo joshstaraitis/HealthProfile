@@ -1,0 +1,7 @@
+C:\Users\stara\Desktop\C# Projects\AccountTest\bin\Debug\AccountTest.exe.config
+C:\Users\stara\Desktop\C# Projects\AccountTest\bin\Debug\AccountTest.exe
+C:\Users\stara\Desktop\C# Projects\AccountTest\bin\Debug\AccountTest.pdb
+C:\Users\stara\Desktop\C# Projects\AccountTest\obj\Debug\AccountTest.csprojAssemblyReference.cache
+C:\Users\stara\Desktop\C# Projects\AccountTest\obj\Debug\AccountTest.csproj.CoreCompileInputs.cache
+C:\Users\stara\Desktop\C# Projects\AccountTest\obj\Debug\AccountTest.exe
+C:\Users\stara\Desktop\C# Projects\AccountTest\obj\Debug\AccountTest.pdb
